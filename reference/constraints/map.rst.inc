@@ -24,6 +24,7 @@ String Constraints
 * :doc:`Uuid</reference/constraints/Uuid>`
 * :doc:`UserPassword </reference/constraints/UserPassword>`
 * :doc:`NotCompromisedPassword </reference/constraints/NotCompromisedPassword>`
+* :doc:`CssColor </reference/constraints/CssColor>`
 
 Comparison Constraints
 ~~~~~~~~~~~~~~~~~~~~~~
